@@ -1,1 +1,1 @@
-https://dankudyba.github.io/12.7/.https://dankudyba.github.io/12.7/
+https://dankudyba.github.io/12.7/
