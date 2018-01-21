@@ -23,7 +23,7 @@ function Card(id, name) {
 			.append(cardEdit)
 			.append(cardDescription);
 
-		return $card;
+		return card;
 	}
 }
 
